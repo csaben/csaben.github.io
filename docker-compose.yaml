@@ -6,3 +6,8 @@ services:
     ports: [4000:4000]
     user: 1000:1000
     environment: [JEKYLL_ENV=docker]
+    develop:
+      watch:
+        - action: rebuild
+          target: /usr/src/app/_config.yml
+          path: ./_config.yml
