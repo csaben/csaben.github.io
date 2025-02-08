@@ -8,4 +8,10 @@ redirect_from:
 ---
 
 
-<!-- Hi 👋, I am a researcher at DeepSeek. I studied my PhD at ZIP Lab, Monash University, supervised by Prof. Bohan Zhuang and Prof. Jianfei Cai. Previously I was a master student at the University of Adelaide. Prior to that, I received my bachelors’ degree from Harbin Institute of Technology, Weihai, a beautiful coastal campus 🏖️, which left me with cherished memories. Here is my CV (usually outdated). -->
+Projects I'm working on:
+
+- open source text to speech with [resoul.ai](https://github.com/resoul-ai) 
+- ML infrastructure and products at Serco
+
+
+I received my bachelor' in Physics and Mathematics from the University of Mary Washington.
