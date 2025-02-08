@@ -22,7 +22,7 @@ repository               : "csaben/csaben.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Clark Saben"
   pronouns         : # example: "she/her"  
   bio              : "ML Software Engineer at Serco"
@@ -32,7 +32,7 @@ author:
   email            : "clarksabenbus@gmail.org" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
+  arxiv            : https://arxiv.org/search/cs?searchtype=author&query=Saben,+C # URL - Update with the correct link to your profile
   # googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
   # orcid            : "http://orcid.org/yourorcidurl"
