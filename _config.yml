@@ -13,8 +13,8 @@ title                    : "Clark Saben"
 title_separator          : "-"
 name                     : &name "Clark Saben"
 description              : &description "personal description"
-# url                      : https://clark.saben.org/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
-url                      : https://csaben.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+url                      : https://clark.saben.org/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
+# url                      : https://csaben.github.io/ # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "csaben/csaben.github.io"
 
@@ -23,8 +23,8 @@ repository               : "csaben/csaben.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  # avatar           : "profile.png"
-  avatar           : "bakugo.png"
+  avatar           : "/images/profile.png"
+  # avatar           : "bakugo.png"
   name             : "Clark Saben"
   pronouns         : # example: "she/her"  
   bio              : "ML Software Engineer at Serco"
