@@ -14,4 +14,4 @@ Projects I'm working on:
 - ML infrastructure and products at Serco
 
 
-I received my bachelor' in Physics and Mathematics from the University of Mary Washington.
+I received my bachelor' in Physics and Mathematics from the University of Mary Washington. 

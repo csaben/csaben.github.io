@@ -139,15 +139,17 @@ a > code,
 figcaption > code,
 li > code,
 p > code,
+// FINALLY found the offending boxing code lol
 pre > code,
 td > code {
   padding-top: 0.1rem;
   padding-bottom: 0.1rem;
-  font-size: $type-size-6;
-  background: var(--global-code-background-color);
-  border: 1px solid var(--global-thead-color);
-  border-radius: $border-radius;
-  box-shadow: $box-shadow;
+  font-size:  .85rem;
+  // font-size: $type-size-8;
+  // background: var(--global-code-background-color);
+  // border: 1px solid var(--global-thead-color);
+  // border-radius: $border-radius;
+  // box-shadow: $box-shadow;
   color: var(--global-code-text-color);
 
   &:before, &:after {
@@ -159,6 +161,7 @@ td > code {
 /* horizontal rule */
 
 hr {
+  height: 8px;
   display: block;
   margin: 1em 0;
   border: 0;

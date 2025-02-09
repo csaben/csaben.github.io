@@ -23,6 +23,12 @@ How to train with selfplay:
 ./synchronous_loop.sh andark pretrained andark-v1 'b10c128' 1      
 ```
 
+```python
+
+def hello() -> str:
+  print("hello")
+```
+
 >model configs to select from:
 [Katago model configs](https://github.com/rsdmse/KataGo/blob/master/python/modelconfigs.py)
 

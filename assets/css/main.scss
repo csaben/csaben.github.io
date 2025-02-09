@@ -40,3 +40,49 @@
     "vendor/font-awesome/brands",
     "vendor/magnific-popup/magnific-popup"
 ;
+
+/* =====================
+   Blockquotes
+   ===================== */
+blockquote {
+  font-style: italic;
+  border-left: 4px solid #888; /* Neutral gray */
+  padding-left: 15px;
+  color: #555;
+  background: #f4f4f4; /* Light gray background */
+  padding: 10px 15px;
+  margin: 1.5em 0;
+  border-radius: 5px; /* Soft rounded edges */
+}
+
+/* =====================
+   Code Blocks
+   ===================== */
+pre {
+  background: #282c34; /* Dark theme */
+  color: #abb2bf; /* Syntax text color */
+  font-family: "Fira Code", monospace;
+  font-size: 16px;
+  padding: 15px;
+  border-radius: 6px;
+  overflow-x: auto;
+}
+
+code {
+  font-family: "Fira Code", monospace;
+  background-color: #282c34;
+  padding: 2px 5px;
+  border-radius: 4px;
+  font-size: 16px;
+  color: white; /* Dark red for inline code */
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  color: inherit;
+}
+
+/* =====================
+   Horizontal bars
+   ===================== */
